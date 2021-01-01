@@ -22,7 +22,7 @@ copyright = "&copy 2020 agrawal interiors. All rights reserved." # HTML tags sup
     instagram = "https://instagram.com"
     videoUrl = "https://youtube.com"
     phone = "+91 8329976522"
-    whatsapp = "https://wa.link/qsk3pk"
+    whatsapp = "http://api.whatsapp.com/send?phone=+9194051%2071482&text=Hi%20Mr.%20Agrawal,%20I%27d%20like%20to%20know%20more%20about%20the%20services%20you%20provide%20at%20agrawal%20interiors."
 
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
@@ -72,5 +72,5 @@ copyright = "&copy 2020 agrawal interiors. All rights reserved." # HTML tags sup
 
 #  [params.social]
 #  email         = "agrawalinteriors.dhule@gmail.com"
-#  whatsapp      = "https://wa.link/qsk3pk"
+#  whatsapp      = "http://api.whatsapp.com/send?phone=+9194051%2071482&text=Hi%20Mr.%20Agrawal,%20I%27d%20like%20to%20know%20more%20about%20the%20services%20you%20provide%20at%20agrawal%20interiors."
 #  mobile        = "+91 8329976522"
