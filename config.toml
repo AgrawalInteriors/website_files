@@ -1,4 +1,4 @@
-baseURL = "http://agrawalinteriors.com"
+baseURL = "https://agrawalinteriors.github.io"
 languageCode = "en-us"
 title = "agrawal interiors"
 theme = "resto-hugo"
